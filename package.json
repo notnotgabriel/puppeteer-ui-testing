@@ -1,0 +1,19 @@
+{
+  "name": "pup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/bootstrap.js --recursive test --timeout 20000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.5",
+    "mocha": "^4.0.1",
+    "npm": "^5.7.1",
+    "puppeteer": "^0.13.0"
+  }
+}
