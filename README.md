@@ -6,4 +6,4 @@
 
 ## Up and running
 
-> `npm install` to install all dependencies. `npm tests` will run all the the tests.
+> `npm install` to install all dependencies. `npm tests` will run all the tests.
